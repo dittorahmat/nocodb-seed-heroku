@@ -22,5 +22,8 @@
    "env": {
         "NC_ONE_CLICK": "true",
         "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+        "NC_EXPORT_MAX_TIMEOUT" : "6000000"
+        "DB_QUERY_LIMIT_DEFAULT" : "100"
+        "DB_QUERY_LIMIT_MAX" : "10000"
     }
 }
